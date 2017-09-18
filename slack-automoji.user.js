@@ -2,7 +2,7 @@
 // @name         Slack Automoji
 // @version      0.1
 // @description  Automatically react to Slack messages
-// @updateURL
+// @updateURL    https://github.com/neufeldtech/userscripts/raw/master/slack-automoji.user.js
 // @author       Jordan Neufeld <jordan@neufeldtech.com>
 // @match        https://prairietech.slack.com/*
 // @connect      slack.com

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Create Jira Issue From PrairieTech Slack
-// @updateURL
+// @updateURL    https://github.com/neufeldtech/userscripts/raw/master/slack-create-jira-issue.user.js
 // @namespace    *://prairietech.slack.com
 // @match        *://prairietech.slack.com/*
 // @connect      jira.neufeldtech.com
