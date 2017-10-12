@@ -2,7 +2,7 @@
 Collection of userscripts for the Tampermonkey browser extension
 
 ## How to use:
-1. Add the [Tampermonkey Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) to Chrome
+1. Add the Tampermonkey Extension to [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 2. Click on the script's `raw` url to install!
 <img width="800" src="images/how-to-install.png"/>
 
